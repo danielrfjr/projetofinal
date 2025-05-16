@@ -1,13 +1,13 @@
 {% load static %}
 <header class="navbar">
   <div class="logo">
-    <a href="#">
+    <a href="{% url 'index' %}">
       <img src="{% static '/global/assets/images/logo-white.png' %}" alt="Logo da StreamBox">
     </a>
   </div>
   <nav>
     <ul class="nav-links">
-      <li><a href="#">Home</a></li>
+      <li><a href="{% url 'index' %}">Home</a></li>
       <li><a href="#">Filmes</a></li>
       <li><a href="#">Series</a></li>
       <li><a href="#">Minha lista</a></li>
