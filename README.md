@@ -2,6 +2,8 @@
 
 Este é um projeto de **streaming de filmes** integrado com **criptomoeda**. O sistema foi desenvolvido utilizando **Django** para o backend, **Solidity** para contratos inteligentes na blockchain e **Python** para operações diversas.
 
+![Imagem do projeto](C:/Users/transfero.2025/Pictures/imagem.png)
+
 ## 🚀 Funcionalidades
 
 - **Streaming de vídeos**: Os usuários podem assistir ao conteúdo em tempo real.
